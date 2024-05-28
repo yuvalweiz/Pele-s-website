@@ -93,3 +93,14 @@ h2 {
 .header-title {
     margin-top: -10px; /* Adjust the value as needed to move the text up */
 }
+#qrcode {
+    background: none;
+    border: none;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+#qrcode img {
+    width: 200px;
+    height: 200px;
+}
